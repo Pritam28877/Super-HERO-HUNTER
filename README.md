@@ -1,6 +1,6 @@
 README.md
 
-# SuperheroSearch
+# SuperheroHunter
 
 SuperheroSearch is a web application built with HTML, CSS, and JavaScript that allows users to search for information about their favorite superheroes.
 
